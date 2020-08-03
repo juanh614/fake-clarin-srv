@@ -2,7 +2,7 @@
   "search": [
      {
                 "type_doc": "DNI",
-                "doc": "12345",
+                "doc": "123451",
                 "affinity_group": "from-clarin-Affinity1",
                 "card_number": "from-clarin-1234",
                 "status_cred": "ACTIVA",
@@ -11,12 +11,12 @@
             },
             {
                 "type_doc": "DNI",
-                "doc": "12345",
+                "doc": "123452",
                 "affinity_group": "from-clarin-Affinity2",
                 "card_number": "from-clarin-5678",
                 "status_cred": "INACTIVA",
                 "validity_days": 30,
-                "category": "CLASICA"
+                "category": "PREMIUM"
             }
   ],
   "posts": [
