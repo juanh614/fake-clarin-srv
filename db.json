@@ -1,0 +1,34 @@
+{
+  "search": [
+     {
+                "type_doc": "DNI",
+                "doc": "12345",
+                "affinity_group": "from-clarin-Affinity1",
+                "card_number": "from-clarin-1234",
+                "status_cred": "ACTIVA",
+                "validity_days": 30,
+                "category": "CLASICA"
+            },
+            {
+                "type_doc": "DNI",
+                "doc": "12345",
+                "affinity_group": "from-clarin-Affinity2",
+                "card_number": "from-clarin-5678",
+                "status_cred": "INACTIVA",
+                "validity_days": 30,
+                "category": "CLASICA"
+            }
+  ],
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
