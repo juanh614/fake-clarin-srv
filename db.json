@@ -15,7 +15,7 @@
                 "affinity_group": "from-clarin-Affinity2",
                 "card_number": "from-clarin-5678",
                 "status_cred": "INACTIVA",
-                "validity_days": 30,
+                "validity_days": 0,
                 "category": "PREMIUM"
             }
   ],
