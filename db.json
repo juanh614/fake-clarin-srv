@@ -8,8 +8,8 @@
          "credential":[
             {
                "type_doc":"DNI",
-               "doc":12345678911,
-               "affinity_group":"01",
+               "doc":28123456,
+               "affinity_group":"05",
                "credential":"3086251500017137018",
                "status_cred":"ACTIVE",
                "validity_days":"90",
@@ -17,8 +17,8 @@
             },
             {
                "type_doc":"DNI",
-               "doc":12345678911,
-               "affinity_group":"01",
+               "doc":28123126,
+               "affinity_group":"05",
                "credential":"3086251500017123456",
                "status_cred":"ACTIVE",
                "validity_days":"90",
