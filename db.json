@@ -1,29 +1,28 @@
 {
-   "trial":
-      {
-         "status":{
-            "code":"1200",
-            "message":"valid user"
+   "search":{
+      "status":{
+         "code":"1400",
+         "message":"no subscription"
+      },
+      "credential":[
+         {
+            "type_doc":"dni",
+            "doc":"17569126",
+            "affinity_group":"1",
+            "credential":"3086250520696666106",
+            "status_cred":"Cancelada",
+            "validity_days":null,
+            "cred_platform":"365"
          },
-         "credential":[
-            {
-               "type_doc":"DNI",
-               "doc":28123456,
-               "affinity_group":"05",
-               "credential":"3086251500017137018",
-               "status_cred":"ACTIVE",
-               "validity_days":"30",
-               "cred_platform":"todopago_365"
-            },
-            {
-               "type_doc":"DNI",
-               "doc":28123126,
-               "affinity_group":"05",
-               "credential":"3086251500017123456",
-               "status_cred":"ACTIVE",
-               "validity_days":"60",
-               "cred_platform":"todopago_365"
-            }
-         ]
-      }
+         {
+            "type_doc":"dni",
+            "doc":"17569126",
+            "affinity_group":1,
+            "credential":"3086250020696666107",
+            "status_cred":"Cancelada",
+            "validity_days":null,
+            "cred_platform":"365"
+         }
+      ]
+   }
 }
