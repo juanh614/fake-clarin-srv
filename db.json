@@ -1,7 +1,7 @@
 {
    "search":{
       "status":{
-         "code":"1400",
+         "code":"1200",
          "message":"no subscription"
       },
       "credential":[
